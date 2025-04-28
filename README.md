@@ -1,2 +1,3 @@
-# Patents
-Our Patent and Our projects
+# Patents #
+
+Our Patent & Our Projects
